@@ -25,8 +25,7 @@ I'll explain each step in details below.
 
 #### Environement:
 -  Windows 10
--  Anaconda 5.0.1
--  Python 3.6.2
+-  Python 3.7.1
 -  TensorFlow 0.12.1 (GPU support)
 
 ---
