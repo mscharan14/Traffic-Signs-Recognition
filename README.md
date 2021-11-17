@@ -32,7 +32,7 @@ I'll explain each step in details below.
 ---
 ## Step 1: Load The Data
 
-Download the dataset from [here](https://drive.google.com/file/d/1BGDHe6qQwrBEgnl-tXTSKo6TvDj8U3wS/view). This is a pickled dataset in which we've already resized the images to 32x32.
+Download the dataset from [here](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign). This is a pickled dataset in which we've already resized the images to 32x32.
 
 We already have three `.p` files of 32x32 resized images:
 - `train.p`: The training set.
