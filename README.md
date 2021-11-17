@@ -1,4 +1,4 @@
-# German Traffic Sign Classification Using CNN and Keras
+# Traffic Sign Recognition and Classification Using CNN and Keras
 **In this project, I used Python and TensorFlow to classify traffic signs.**
 
 **Dataset used: [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
