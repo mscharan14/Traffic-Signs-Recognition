@@ -263,13 +263,13 @@ In all cases, the model was very certain (80% - 100%).
 ## Conclusion
 
 <figure>
- <img src="Screenshot (80).png" width="400" alt="Combined Image" />
+ <img src="graph1.png" width="400" alt="Combined Image" />
  <figcaption>
  <p></p> 
  </figcaption>
 </figure>
 <figure>
- <img src="Screenshot (81).png" width="400" alt="Combined Image" />
+ <img src="graph2.png" width="400" alt="Combined Image" />
  <figcaption>
  <p></p> 
  </figcaption>
